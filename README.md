@@ -45,4 +45,4 @@ The code has been organized into the following functional categories:
 - `Jneuro_edit_review_plot.ipynb` - Plotting for revision
 
 ### MusicianshipQuestionnair.pdf
-- The musicianship questionnair we used in this study (reference: Whiteford, K. L., Baltzell, L. S., Chiu, M., Cooper, J. K., Faucher, S., Goh, P. Y., ... & Oxenham, A. J. (2025). Large-scale multi-site study shows no association between musical training and early auditory neural sound encoding. Nature Communications, 16(1), 7152.)
+- The musicianship questionnaire we used in this study (reference: Whiteford, K. L., Baltzell, L. S., Chiu, M., Cooper, J. K., Faucher, S., Goh, P. Y., ... & Oxenham, A. J. (2025). Large-scale multi-site study shows no association between musical training and early auditory neural sound encoding. Nature Communications, 16(1), 7152.)
