@@ -2,6 +2,7 @@
 
 This repository contains code for paper [Chimeric music reveals an interaction of pitch and time in electrophysiological signatures of music encoding](https://doi.org/10.1101/2024.11.04.621689)
 
+The data used in this study can be found on [OpenNeuro.org](https://openneuro.org/datasets/ds006735).
 ## Repository Organization
 
 The code has been organized into the following functional categories:
